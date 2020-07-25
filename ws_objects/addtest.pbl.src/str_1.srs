@@ -1,0 +1,5 @@
+$PBExportHeader$str_1.srs
+global type str_1 from structure
+	string		s_test1
+end type
+
